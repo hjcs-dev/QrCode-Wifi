@@ -25,6 +25,3 @@ pip install qrcode
 
 ```sh
 python3 main.py
-
-
-
